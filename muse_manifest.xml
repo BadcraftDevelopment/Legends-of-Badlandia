@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="abc.com" resolutions="1x" timestamp="1506253925347">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="abc.com" resolutions="1x" timestamp="1506257033927">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3879653391" ref="index"/>
+    <file name="index.css" crc="419924492" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -18,8 +18,8 @@
     <file name="u110-6.png" crc="4006947821" ref="index"/>
     <file name="u126-24.png" crc="4217005128" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u173.png" crc="91578157" ref="index"/>
-    <file name="u173-r.png" crc="91578157" ref="index"/>
+    <file name="u173.png" crc="4071606185" ref="index"/>
+    <file name="u173-r.png" crc="4071606185" ref="index"/>
     <file name="u155-4.png" crc="4257173907" ref="index"/>
     <file name="u157-7.png" crc="428777526" ref="index"/>
     <file name="u232-4.png" crc="208801150" ref="index"/>
@@ -30,5 +30,5 @@
     <file name="u223-4.png" crc="443538513" ref="index"/>
     <file name="u287-4.png" crc="36675486" ref="index"/>
   </folder>
-  <file name="index.html" crc="410653220" seo="true" mt="1506253899659" redirect="true"/>
+  <file name="index.html" crc="3782245878" seo="true" mt="1506256985120" redirect="true"/>
 </manifest>
